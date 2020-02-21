@@ -1,5 +1,8 @@
 # Goal Setter
 
+## DESIGN FILE
+https://www.figma.com/file/qq8kOKWv6fnyZ3qtr3P2se/GoalSetter
+
 ## PITCH
 A goal without strategy is simply a dream. 
 
