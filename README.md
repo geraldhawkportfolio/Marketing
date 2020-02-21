@@ -3,6 +3,9 @@
 ## DESIGN FILE
 https://www.figma.com/file/qq8kOKWv6fnyZ3qtr3P2se/GoalSetter
 
+## TRELLO BOARD
+https://trello.com/b/mbjcEPX0/goal-setter
+
 ## PITCH
 A goal without strategy is simply a dream. 
 
